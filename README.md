@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikhil Gowda</h1>
+![Header](./github-header-image.png)
+
 <h3 align="center">Passionate student aspiring to craft elegant code and innovate solutions ✨ | Embracing the journey to becoming a skilled developer 🚀 | Constantly learning, coding, and dreaming up new projects 💻</h3>
 
 - 🔭 I’m currently working on [_](_)
