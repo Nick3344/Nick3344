@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate student aspiring to craft elegant code and innovate solutions ✨ | Embracing the journey to becoming a skilled developer 🚀 | Constantly learning, coding, and dreaming up new projects 💻</h3>
 
-- 🔭 I’m currently working on [_](_)
+- 🔭 I’m currently working on [_](__)
 
 - 🌱 I’m currently learning **Spring Boot**
 
